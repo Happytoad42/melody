@@ -1,0 +1,25 @@
+{
+  "name": "melody",
+  "version": "1.0.0",
+  "description": "React Guess the Melody game",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run eslint",
+    "build": "webpack",
+    "eslint": "eslint src/**/*.js src/**/*.jsx"
+  },
+  "author": "Artyom Mkhailov\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Di",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "6.23.0",
+    "babel-cli": "6.26.0",
+    "babel-loader": "8.0.6",
+    "eslint": "6.4.0",
+    "eslint-config-htmlacademy": "0.5.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "webpack": "4.40.2",
+    "webpack-cli": "3.3.8",
+    "webpack-dev-server": "3.8.0"
+  }
+}
